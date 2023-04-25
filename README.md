@@ -2,7 +2,7 @@ Seja criativo(a)! Explore todos os conceitos que aprendemos nessa imersão e rep
  
 Dica: você pode dar um "fork" no Repositório do GitHub (App) para organizar suas alterações e evoluções, mantendo uma referência direta ao código original.
  
- Clique aqui para visualizar o site criado a partir do desafio.
+ 
  
   ![Desktop - 1](https://user-images.githubusercontent.com/128502624/234340607-5eaf42ba-b14d-47e7-9558-562b0235dbc3.png)
 
