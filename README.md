@@ -7,6 +7,7 @@ Dica: você pode dar um "fork" no Repositório do GitHub (App) para organizar su
   ![Desktop - 1](https://user-images.githubusercontent.com/128502624/234340607-5eaf42ba-b14d-47e7-9558-562b0235dbc3.png)
 
 
+
 GitHub
 Todo código-fonte desenvolvido para este conteúdo foi versionado no GitHub, no seguinte endereço:
 https://github.com/digitalinnovationone/trilha-css-desafio-01
